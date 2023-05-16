@@ -2,7 +2,7 @@
 
 Ingredients list generation takes place in 2 steps. The model architecture can be seen in the following image:
 
-<img width="461" alt="image" src="https://github.com/SaiLahari28/IngredientListGeneration/assets/133794318/a5d20ab7-cd50-4a71-b333-9cd3566d42f1">
+<img width="600" alt="image" src="https://github.com/SaiLahari28/IngredientListGeneration/assets/133794318/a5d20ab7-cd50-4a71-b333-9cd3566d42f1">
 
 Dataset used for training the multi-class classification model(EfficientNet-B2) which predicts the food name can be found at: https://www.kaggle.com/datasets/synysterjeet/food-classification
 
